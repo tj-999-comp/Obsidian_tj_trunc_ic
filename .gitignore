@@ -1,0 +1,25 @@
+# Obsidian設定関連
+## 環境依存性が高いファイルやコンフリクトの原因になりやすいファイル
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json # プラグインの個別設定 (機密情報を含む可能性)
+# .obsidian/appearance.json # 個人の外観設定 (必要ならコメントアウト)
+# .obsidian/themes/ # 個人のテーマ (必要ならコメントアウト)
+# .obsidian/ # .obsidianフォルダ全体を無視する場合はこれだけを有効化し、上記個別指定は不要
+
+# Obsidian Gitプラグイン関連
+.obsidian-git-data
+conflict-files-obsidian-git.md
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+._* # macOSのリソースフォークファイル
+
+# Obsidianのゴミ箱
+.trash/
+
+# 一時ファイルや個人的な除外ファイル (例)
+# Untitled*
+# MyPrivateNotes/
