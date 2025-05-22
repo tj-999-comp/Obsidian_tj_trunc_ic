@@ -26,3 +26,4 @@ Amazon Pay支払いで 総額2,025万円を山分け！ [詳細](https://www.ama
 [ログイン](https://note.com/login?redirectPath=%2Ftetumemo%2Fn%2Fnb72327a5aa03)
 
 この記事が気に入ったらチップで応援してみませんか？
+→しません！
