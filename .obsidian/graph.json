@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"Not Graphed\"  ",
+  "search": "path:Clippings  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9865770484195744,
+  "scale": 0.8944902689174615,
   "close": true
 }

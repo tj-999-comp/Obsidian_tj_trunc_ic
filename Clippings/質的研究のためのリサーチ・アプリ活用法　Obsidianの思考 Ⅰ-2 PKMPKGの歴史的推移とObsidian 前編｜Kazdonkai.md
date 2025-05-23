@@ -1,13 +1,13 @@
 ---
-title: "質的研究のためのリサーチ・アプリ活用法　Obsidianの思考 Ⅰ-2 PKM/PKGの歴史的推移とObsidian [前編]｜Kazdonkai"
-source: "https://note.com/kazu_kai/n/n512db834d136?sub_rt=share_b"
+title: 質的研究のためのリサーチ・アプリ活用法　Obsidianの思考 Ⅰ-2 PKM/PKGの歴史的推移とObsidian [前編]｜Kazdonkai
+source: https://note.com/kazu_kai/n/n512db834d136?sub_rt=share_b
 author:
   - "[[Kazdonkai]]"
 published: 2023-12-24
 created: 2025-05-22
-description: "このnoteは，Obsidian Advent Calender (2023.12.24) のnote でもあります。 そこで，オープニング画像もクリスマス仕様となっています。    私たちが生きることで失った生命はどこにあるのか？     私たちが知識の中で失った知恵はどこにあるのだろう？ 私たちが情報の中で失った知識はどこにあるのだろう？ 私たちが失った情報は、データのどこにあるのだろう？  T.S.エリオット『｢岩｣からの合唱』(1915)  はじめに  2020年の5月にv0.5.0として限定公開され，2022年の10月にv1.0として正式リリースされたOb"
+description: 
 tags:
-  - "clippings"
+  - clippings
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/124574540/rectangle_large_type_2_8e4c4b59ae079ed344dcdbb7c7aa0a03.png?width=1200)
 
