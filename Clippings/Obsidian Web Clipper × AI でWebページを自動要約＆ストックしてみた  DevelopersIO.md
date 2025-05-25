@@ -1,16 +1,16 @@
 ---
-title: "Obsidian Web Clipper × AI でWebページを自動要約＆ストックしてみた | DevelopersIO"
-source: "https://dev.classmethod.jp/articles/try-obsidian-web-clipper-ai-summary/"
+title: Obsidian Web Clipper × AI でWebページを自動要約＆ストックしてみた | DevelopersIO
+source: https://dev.classmethod.jp/articles/try-obsidian-web-clipper-ai-summary/
 author:
   - "[[toyoshima-masaya]]"
 published: 2025-05-28
 created: 2025-05-23
-description:
+description: 
 tags:
-  - "clippings"
+  - clippings
+  - Obsidian
 ---
-[[ObsidianのノートをVS CodeのAI（Cline）を通して活用する 〜ローカルにMarkdown形式で保存しているメリットを活かす使い方]]
-[[Obsidianの使い方講座③：メモ（ノート）同士をつなげる【リンク編】｜小峯知之｜エンジニア＆教育ライター]]
+
 こんにちは、豊島です。
 
 最近、ノート系のアプリケーション（NotionやInkdropなど）を片っ端から試しており、現在はObsidianを愛用しています
