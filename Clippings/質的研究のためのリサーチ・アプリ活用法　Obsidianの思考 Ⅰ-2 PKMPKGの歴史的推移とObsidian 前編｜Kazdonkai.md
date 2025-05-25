@@ -8,6 +8,7 @@ created: 2025-05-22
 description: 
 tags:
   - clippings
+  - Obsidian
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/124574540/rectangle_large_type_2_8e4c4b59ae079ed344dcdbb7c7aa0a03.png?width=1200)
 

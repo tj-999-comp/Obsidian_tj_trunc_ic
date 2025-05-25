@@ -1,14 +1,15 @@
 ---
-title: "ObsidianのノートをVS CodeのAI（Cline）を通して活用する 〜ローカルにMarkdown形式で保存しているメリットを活かす使い方"
-source: "https://gihyo.jp/article/2025/05/obsidian-06"
+title: ObsidianのノートをVS CodeのAI（Cline）を通して活用する 〜ローカルにMarkdown形式で保存しているメリットを活かす使い方
+source: https://gihyo.jp/article/2025/05/obsidian-06
 author:
   - "[[増                                                          増井敏克（ますいとしかつ）]]"
   - "[[増井敏克（ますいとしかつ）]]"
 published: 2025-05-21
 created: 2025-05-22
-description: "今回は、なぜObsidian単体ではなく外部のAIと連携するのか、どうすればObsidianで管理するノートをAIと連携して活用できるのか、について解説します。"
+description: 今回は、なぜObsidian単体ではなく外部のAIと連携するのか、どうすればObsidianで管理するノートをAIと連携して活用できるのか、について解説します。
 tags:
-  - "clippings"
+  - clippings
+  - Obsidian
 ---
 [前回の記事](https://gihyo.jp/article/2025/05/obsidian-05) では、Obsidianが注目されている理由として  「⁠AIとの連携」  があることを解説しました。そして、生成AIやMCP⁠、AIエージェントで実現できることについて紹介しました。
 
