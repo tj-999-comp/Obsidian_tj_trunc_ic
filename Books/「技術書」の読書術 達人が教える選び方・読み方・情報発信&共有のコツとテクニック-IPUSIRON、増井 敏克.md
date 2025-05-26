@@ -22,7 +22,7 @@ kindle-sync:
 * ASIN: B0BF469YLK
 * Reference: https://www.amazon.com/dp/B0BF469YLK
 * [Kindle link](kindle://book?action=open&asin=B0BF469YLK)
-Started: 
+Started: 2025年5月17日
 Finished: 
 ## 要約
 ## 読書メモ
