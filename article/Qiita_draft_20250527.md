@@ -31,7 +31,7 @@ title:タイトル:入茶してません
 どうやらファーストACは2024年10月8日とのこと。もう半年以上も経っているのか…。
   
 ## 現状
-![image_01](file:///Users/ryosuketajima/Library/Mobile%20Documents//iCloud~md~obsidian/Documents/tj_trunk_ic/article/image/Qiita_draft_20250527_01.png)
+![image_01](file:///Users/ryosuketajima/Library/Mobile%20Documents//iCloud~md~obsidian/Documents/tj_trunk_ic/Article/image/Qiita_draft_20250527_01.png)
 前回のABC407を終えた時点で、レーティングは155の灰色です。そもそもコンテストに10回しか出ていないので、本来話はそれからなんですよね…。間3ヶ月ほどまるまる参加していないし。
 AtCoderには下記の記載もありますので、とりあえず14回の出場を目指して頑張ります。
 
@@ -70,7 +70,7 @@ https://atcoder-novisteps.vercel.app/
 - 連想配列（型・型）
 - ランレングス圧縮
 自力で解けない「解説AC」がトータル16問ほど。解説を読み、理解はできているが解く際のフックになるポイントを身につけられていない感覚があります。
-![image_01](file:///Users/ryosuketajima/Library/Mobile%20Documents//iCloud~md~obsidian/Documents/tj_trunk_ic/article/image/Qiita_draft_20250527_02.png)
+![image_01](file:///Users/ryosuketajima/Library/Mobile%20Documents//iCloud~md~obsidian/Documents/tj_trunk_ic/Article/image/Qiita_draft_20250527_02.png)
 解説を見て二週間ほど間が空いた時に、問題を解こうと問題を見て解法が思い出せない・浮かばない。身についていないんですよね結局…。
 
 ## 終わりに
