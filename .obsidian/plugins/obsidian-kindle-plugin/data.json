@@ -5,7 +5,7 @@
   "isLoggedIn": true,
   "syncOnBoot": true,
   "downloadBookMetadata": true,
-  "lastSyncDate": "2025-05-22T02:54:32.693Z",
+  "lastSyncDate": "2025-05-27T05:29:48.211Z",
   "fileNameTemplate": "{{title}}-{{author}}",
   "fileTemplate": "---\ntag: 📚Book\nstatus: unread\nAuthor: {{author}}\nCover: {{imageUrl}}\nPublisher: {{publisher}}\nsource: Kindle / Paper\nType: Techs / Others\n---\n# {{title}}\n## Metadata\n{% trim %}\n{% if author %}* [[{{author}}]]{% endif %}\n{% if imageUrl %}![image|150]({{imageUrl}}){% endif %}\n{% if asin %}* ASIN: {{asin}}{% endif %}\n{% if isbn %}* ISBN: {{isbn}}{% endif %}\n{% if pages %}* Pages: {{pages}}{% endif %}\n{% if publication %}* Publication: {{publication}}{% endif %}\n{% if publisher %}* Publisher: {{publisher}}{% endif %}\n{% if url %}* Reference: {{url}}{% endif %}\n{% if appLink %}* [Kindle link]({{appLink}}){% endif %}\n{% endtrim %}\nStarted: \nFinished: \n## 要約\n## 読書メモ\n## Highlights\n{{highlights}}",
   "highlightTemplate": ">[!quote]\n>{{ text }} — location: [{{ location }}]({{ appLink }})\n{% if note %}>>[!note]\n>{{note}}{% endif %}\n---"

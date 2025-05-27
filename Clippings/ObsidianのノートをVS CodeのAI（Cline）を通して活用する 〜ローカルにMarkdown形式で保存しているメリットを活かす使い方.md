@@ -2,7 +2,6 @@
 title: ObsidianのノートをVS CodeのAI（Cline）を通して活用する 〜ローカルにMarkdown形式で保存しているメリットを活かす使い方
 source: https://gihyo.jp/article/2025/05/obsidian-06
 author:
-  - "[[増                                                          増井敏克（ますいとしかつ）]]"
   - "[[増井敏克（ますいとしかつ）]]"
 published: 2025-05-21
 created: 2025-05-22
