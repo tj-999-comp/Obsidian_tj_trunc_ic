@@ -1,6 +1,8 @@
 ---
 tag: 📚Book
-title: "{{title}}"
+title: "{{isbn10}} {{isbn13}}"
+aliases:
+ - {{title}}-{{author}}
 author: [{{author}}]
 publisher: {{publisher}}
 publish: {{publishDate}}
