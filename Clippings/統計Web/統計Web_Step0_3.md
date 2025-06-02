@@ -9,9 +9,8 @@ description:
 tags:
   - clippings
   - Statistics
+  - Data_Science
 ---
-[![やっぱり、エクセル統計。使い慣れたExcelで統計解析](https://bellcurve.jp/statistics/wp-content/uploads/2024/09/statistics01-b_ver3.png "やっぱり、エクセル統計。使い慣れたExcelで統計解析")](https://bellcurve.jp/ex/)
-
 - Step0. 初級編
 	- 3\. 時系列データ
 		- [3-1. 時系列データを見てみよう](#3-1.時系列データを見てみよう)

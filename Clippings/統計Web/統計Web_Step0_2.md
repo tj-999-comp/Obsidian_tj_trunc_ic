@@ -1,5 +1,5 @@
 ---
-title: 統計WebS0_2
+title: 統計Web_Step0_2
 source: https://bellcurve.jp/statistics/course/18788.html
 author:
   - "[[統計WEB]]"
@@ -9,6 +9,7 @@ description:
 tags:
   - clippings
   - Statistics
+  - Data_Science
 ---
 - Step0. 初級編
 	- 2\. さまざまなグラフ
