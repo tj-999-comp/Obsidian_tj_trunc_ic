@@ -12,13 +12,6 @@ tags:
   - Machine_Learning
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=)
-
-## Qiitaにログインして、便利な機能を使ってみませんか？
-
-[ログイン](https://qiita.com/login?callback_action=login_or_signup&redirect_to=%2Ftani_AI_Academy%2Fitems%2F4da02cb056646ba43b9d&realm=qiita) [新規登録](https://qiita.com/signup?callback_action=login_or_signup&redirect_to=%2Ftani_AI_Academy%2Fitems%2F4da02cb056646ba43b9d&realm=qiita)
-
-この記事は最終更新日から1年以上が経過しています。
-
 ## 追記
 
 【2020年版・初心者向け】独学でAIエンジニアになりたい人向けのオススメの勉強方法  
@@ -67,16 +60,18 @@ AI特化型オンラインブートキャンプです。
 まずは、AIエンジニアに最低限必要な知識を大きく6つに分けて見ました。  
 ここでは、将来AIエンジニアとして業務を行うにあたり、大きく分けて\_\_6つの内容の基礎知識\_\_の全体像を把握してください。  
 **①プログラミングスキル**
-
 - Python
 - numpy、pandas、matplotlib、scikit-learn、TensorFlowやkeras  
 	この中で特にpandasを使いこなせると良いです。  
 	機械学習を行う上で、データ前処理が必須なのですが、データ前処理を行う上で便利なライブラリです。  
-	**②数学**
+
+**②数学**
 - 微分、線形代数、ベクトル、行列、確率など  
-	**③統計の知識**
+
+**③統計の知識**
 - 標準偏差、分散、確率分布、推定、検定などなど  
-	**④機械学習の基礎知識**
+
+**④機械学習の基礎知識**
 - 教師あり学習と教師なし学習
 - 前処理、特徴量設計、学習と評価
 - 単回帰、重回帰分析、最小二乗法、パーセプトロン、ロジスティック回帰
