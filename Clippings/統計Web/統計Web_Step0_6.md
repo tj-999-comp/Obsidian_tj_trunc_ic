@@ -78,14 +78,11 @@ tags:
 
 こんな時に使うのが「標準化」というデータの変換方法です。データを標準化すると、標準化したデータの平均は0に、分散（標準偏差も）は1になります。これにより、異なる項目のデータであってもその大小を比較できるようになります。すなわち、大きければ大きいほど成績が良いことを表します。
 
-標準化は次の式から行います。は元のデータを、は平均値を、は標準偏差を表します。
-
-![ \displaystyle \frac{x- \overline{x}}{s} ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-58251c434edfdc234c7108d524e70e83_l3.svg "Rendered by QuickLaTeX.com")
-
+標準化は次の式から行います。$x$は元のデータを、$\overline{x}$は平均値を、$s$は標準偏差を表します。
+$$\dfrac{x-\overline{x}}{s} $$
 例えば、「くろ」の「ボール投げ」のデータは次のように標準化できます。
 
-![ \displaystyle \frac{2-4}{2}=-1.0 ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-3a0a4cee666bbda643afe99496ea3319_l3.svg "Rendered by QuickLaTeX.com")
-
+$$\displaystyle \frac{2-4}{2}=-1.0 $$
 同様にしてすべてのデータを標準化すると次のようになります。
 
 | 競技名 | くろ | しま | みけ |
@@ -101,12 +98,10 @@ tags:
 # 6-3.偏差値を求めてみよう
 [6-2章](https://bellcurve.jp/statistics/course/19647.html) で算出した標準化したデータをより分かりやすくするために、「偏差値」を計算する場合があります。偏差値は、元のデータを平均が50、標準偏差が10となるように変換した値のことです。具体的には、標準化した値を10倍して50を足すことで求められます。
 
-![ \displaystyle \frac{x- \overline{x}}{s} \times 10 + 50 ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-85c4a1427afe2ce80351246bee1f3829_l3.svg "Rendered by QuickLaTeX.com")
-
+$$ \displaystyle \frac{x- \overline{x}}{s} \times 10 + 50$$
 は元のデータを、は平均値を、は標準偏差を表します。例えば、「くろ」の「ボール投げ」のデータから偏差値を計算すると次のようになります。
 
-![ \displaystyle \frac{2-4}{2} \times 10 + 50 = 40 ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-c37cff9aaba28f74764387bad08ab8e3_l3.svg "Rendered by QuickLaTeX.com")
-
+$$\displaystyle \frac{2-4}{2} \times 10 + 50 = 40$$
 同様にしてすべてのデータから偏差値を求めると次のようになります。
 
 | 競技名 | くろ | しま | みけ |

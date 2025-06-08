@@ -80,8 +80,9 @@ tags:
 ここで示したデータのように、横軸の値（参加匹数）が増加すると縦軸の値（競技時間）も増加するという関係がある場合には「正の相関関係がある」といいます。逆に、横軸の値が増加すると縦軸の値は減少するという関係がある場合には「負の相関関係がある」といいます。
 
 では、いよいよ相関係数を求めてみます。2つの要素xとyからなるn個のデータが得られたとき、その相関関係の強弱を表す相関係数は次の式から求められます。
+$$  \displaystyle r_{xy}=\frac{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})(y_{i}-\overline{y})}{\sqrt{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})^{2}} \times \sqrt{\displaystyle\frac{1}{n} \sum_{i=1}^{n} (y_{i}-\overline{y})^{2}}} $$
 
-![ \displaystyle r_{xy}=\frac{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})(y_{i}-\overline{y})}{\sqrt{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})^{2}} \times \sqrt{\displaystyle\frac{1}{n} \sum_{i=1}^{n} (y_{i}-\overline{y})^{2}}} ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-223b028c961f049ea60bcacf0230238b_l3.svg "Rendered by QuickLaTeX.com")
+<!-- ![ \displaystyle r_{xy}=\frac{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})(y_{i}-\overline{y})}{\sqrt{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})^{2}} \times \sqrt{\displaystyle\frac{1}{n} \sum_{i=1}^{n} (y_{i}-\overline{y})^{2}}} ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-223b028c961f049ea60bcacf0230238b_l3.svg "Rendered by QuickLaTeX.com") -->
 
 nはサンプルの数を、とはi番目のデータの値を、とはxとyのデータの平均値を表します。また、はi=1からi=nまでの値をすべて足したものということを意味します。
 
@@ -89,7 +90,9 @@ nはサンプルの数を、とはi番目のデータの値を、とはxとyの�
 
 これらの値を使うと、相関係数は
 
-![ \displaystyle r_{xy}=\frac{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})(y_{i}-\overline{y})}{\sqrt{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})^{2}} \times \sqrt{\displaystyle\frac{1}{n} \sum_{i=1}^{n} (y_{i}-\overline{y})^{2}}} = \frac{304.08}{\sqrt{2476.53 \times 69.39}} = 0.77 ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-662111daae393e4724f4d79211d0532d_l3.svg "Rendered by QuickLaTeX.com")
+$$ \displaystyle r_{xy}=\frac{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})(y_{i}-\overline{y})}{\sqrt{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})^{2}} \times \sqrt{\displaystyle\frac{1}{n} \sum_{i=1}^{n} (y_{i}-\overline{y})^{2}}} = \frac{304.08}{\sqrt{2476.53 \times 69.39}} = 0.77 $$
+
+<!-- ![ \displaystyle r_{xy}=\frac{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})(y_{i}-\overline{y})}{\sqrt{\displaystyle \frac{1}{n} \sum_{i=1}^{n} (x_{i}-\overline{x})^{2}} \times \sqrt{\displaystyle\frac{1}{n} \sum_{i=1}^{n} (y_{i}-\overline{y})^{2}}} = \frac{304.08}{\sqrt{2476.53 \times 69.39}} = 0.77 ](https://bellcurve.jp/statistics/wp-content/ql-cache/quicklatex.com-662111daae393e4724f4d79211d0532d_l3.svg "Rendered by QuickLaTeX.com") -->
 
 と計算できます。この結果から、参加匹数と競技時間の間には非常に強い相関があることが分かります。
 
