@@ -4,5 +4,7 @@
   "obsidian-style-settings",
   "obsidian-book-search-plugin",
   "obsidian-kindle-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "metadata-menu"
 ]
