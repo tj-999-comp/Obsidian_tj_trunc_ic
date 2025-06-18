@@ -31,6 +31,7 @@ https://retsu-business.com/business/statistics-books/
 ### 優先順位が決まっていること
 下記2つは同時並行で。
 1. とにかく手を動かして覚える。環境構築慎重に。
+	- Pythonブートキャンプ［データ分析コース］
 	- Numpy
 		- [NumPy 入門](https://tutorials.chainer.org/ja/08_Introduction_to_NumPy.html)
 		- [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md) ← 100本ノック
