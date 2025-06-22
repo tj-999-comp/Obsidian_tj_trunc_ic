@@ -1,18 +1,20 @@
 ---
-tag: "\U0001F4DABook"
-status: unread
-Author: 増井 敏克
-Cover: 'https://m.media-amazon.com/images/I/71cavpnJJEL._SY160.jpg'
-Publisher: null
-source: Kindle / Paper
-Type: Techs / Others
+tags:
+  - 📚Book
+status: read
+Author:
+  - 増井 敏克
+Cover: https://m.media-amazon.com/images/I/71cavpnJJEL._SY160.jpg
+Publisher: 
+source: Kindle
+Type: Techs
 kindle-sync:
-  bookId: '17707'
+  bookId: "17707"
   title: Obsidianで“育てる”最強ノート術 —— あらゆる情報をつなげて整理しよう
   author: 増井 敏克
   asin: B0CK827QHL
-  lastAnnotatedDate: '2025-05-30'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/71cavpnJJEL._SY160.jpg'
+  lastAnnotatedDate: 2025-05-30
+  bookImageUrl: https://m.media-amazon.com/images/I/71cavpnJJEL._SY160.jpg
   highlightsCount: 13
 ---
 # Obsidianで“育てる”最強ノート術 —— あらゆる情報をつなげて整理しよう

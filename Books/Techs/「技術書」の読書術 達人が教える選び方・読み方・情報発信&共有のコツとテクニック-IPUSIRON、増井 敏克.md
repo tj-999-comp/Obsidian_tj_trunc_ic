@@ -1,18 +1,20 @@
 ---
-tag: "\U0001F4DABook"
-status: unread
-Author: IPUSIRON、増井 敏克
-Cover: 'https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg'
-Publisher: null
-source: Kindle / Paper
-Type: Techs / Others
+tags:
+  - 📚Book
+status: read
+Author:
+  - IPUSIRON、増井 敏克
+Cover: https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg
+Publisher: 
+source: Kindle
+Type: Techs
 kindle-sync:
-  bookId: '16050'
+  bookId: "16050"
   title: 「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック
   author: IPUSIRON、増井 敏克
   asin: B0BF469YLK
-  lastAnnotatedDate: '2025-05-26'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg'
+  lastAnnotatedDate: 2025-05-26
+  bookImageUrl: https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg
   highlightsCount: 63
 ---
 # 「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック
