@@ -51,3 +51,7 @@ https://retsu-business.com/business/statistics-books/
 		- [Macでデータサイエンス100本ノックを動かす方法 - Qiita -](https://qiita.com/karaage0703/items/1b18b1f4ab65d35afb5f) ← 動かし方
 2. 統計学を学ぶ。下記コンテンツは消化しつつも手書きでやりたい。
 	- [[【MOC】統計Web]]
+
+### AIに聞いてまとめさせたシリーズ
+- [[How_to_become_data_scientist_20250617]]
+- [[What_GoogleColab_and_Jupyter_Notebook_20250623]]

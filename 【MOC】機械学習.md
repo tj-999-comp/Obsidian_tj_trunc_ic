@@ -43,3 +43,7 @@
 
 ### 教材集のご紹介（助かる）
 [[機械学習エンジニアに爆速でなるための教材集]]
+
+### AIに聞いてまとめさせたシリーズ
+- [[How_to_become_data_scientist_20250617]]
+- [[What_GoogleColab_and_Jupyter_Notebook_20250623]]

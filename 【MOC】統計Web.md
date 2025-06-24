@@ -7,16 +7,16 @@ progress: 15
 [統計学の時間](https://bellcurve.jp/statistics/course/?srsltid=AfmBOoo5NYNzYumLdhkyMxL59RH_iLp9poPv7HwjU1VwH0vjVOxJI1E1)
 ### Step0. 初級編
 
-1. [x] データの集計
-2. [x] さまざまなグラフ
-3. [x] 時系列データ
-4. [x] 代表値と箱ひげ図
-5. [x] データのばらつき
-6. [x] データの標準化
-7. [x] データの相関
-8. [x] 確率の計算
-9. [x] 研究計画
-10. [x] データの読み方
+1. [x] データの集計[[統計Web_Step0_1]]
+2. [x] さまざまなグラフ[[統計Web_Step0_2]]
+3. [x] 時系列データ[[統計Web_Step0_3]]
+4. [x] 代表値と箱ひげ図[[統計Web_Step0_4]]
+5. [x] データのばらつき[[統計Web_Step0_5]]
+6. [x] データの標準化[[統計Web_Step0_6]]
+7. [x] データの相関[[統計Web_Step0_7]]
+8. [x] 確率の計算[[統計Web_Step0_8]]
+9. [x] 研究計画[[統計Web_Step0_9]]
+10. [x] データの読み方[[統計Web_Step0_10]]
 
 ---
 
