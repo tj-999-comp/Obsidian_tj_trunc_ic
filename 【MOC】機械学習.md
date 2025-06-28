@@ -15,6 +15,30 @@
 買おうとしていた「ゼロから作る〜」が明らかに難しいので、もっと簡単な本を買うことにしました。ハードルは低いところから！鉄則！
 
 ### 優先順位が決まっていないこと
+#### 現在案（20250624）
+source: [[Kaggle Expertになるまで勉強したことを全て書く]]
+1. python入門
+   別テキストを始めたため省略
+	1. ~~スッキリわかる Python入門
+	2. ~~米国データサイエンティストがやさしく教えるデータサイエンスのためのPython講座  
+2. 機械学習について学ぶ①
+	1. 機械学習&ディープラーニングのしくみと技術がわかる本
+	2. トコトンやさしい画像認識の本
+3. PyTorch
+	1. Udemy：PyTorch for Deep Learning with Python Bootcamp  
+	2. つくりながら学ぶ! PyTorchによる発展Deep Learning  
+4. 機械学習について学ぶ②
+	1. coursera：Machine Learning
+	2. ゼロから作る Deep Learning （最悪省略） 
+	3. ゼロから作る Deep Learning 2  （最悪省略）
+	4. ゼロから作る Deep Learning 3  （最悪省略）
+	5. Pythonではじめる機械学習  
+5. Kaggle実践
+	1. 実践Data Scienceシリーズ PythonではじめるKaggleスタートブック  
+	2. Kaggle Titanicコンペ・House Priceコンペ  
+	3. Kaggleで勝つデータ分析の技術  
+
+#### ボツ案
 - 概念、仕組みの理解
 	- [ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装](https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep-Learning-%E2%80%95Python%E3%81%A7%E5%AD%A6%E3%81%B6%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AE%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%A3%85-%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585/ref=pd_vtp_1/356-3019440-1094367?pd_rd_w=yU11S&pf_rd_p=949e26f5-c2ef-4c96-bfde-49d7614d0317&pf_rd_r=PRNW0HSA9D823TNGXPJ2&pd_rd_r=88bd2840-1d82-442e-bc42-526e86415f57&pd_rd_wg=4AmJf&pd_rd_i=4873117585&psc=1)  
 		← おすすめ
@@ -43,6 +67,7 @@
 
 ### 教材集のご紹介（助かる）
 [[機械学習エンジニアに爆速でなるための教材集]]
+
 
 ### AIに聞いてまとめさせたシリーズ
 - [[How_to_become_data_scientist_20250617]]

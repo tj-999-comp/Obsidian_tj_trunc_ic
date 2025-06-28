@@ -12,7 +12,6 @@ cover: {{coverUrl}}
 created: {{DATE:YYYY-MM-DD HH:mm:ss}}
 updated: {{DATE:YYYY-MM-DD HH:mm:ss}}
 source: Kindle / Paper
-Type: Techs / Others
 ---
 ![cover|150]({{coverUrl}})
 # {{title}}

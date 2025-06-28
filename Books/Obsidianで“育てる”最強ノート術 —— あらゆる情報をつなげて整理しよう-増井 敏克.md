@@ -1,6 +1,6 @@
 ---
 tags:
-  - 📚Book
+  - 📚Book/Techs
 status: read
 Author:
   - 増井 敏克
