@@ -1,7 +1,7 @@
 ---
 fileClass: tasks
 
-progress: 44
+progress: 45
 ---
 このページをうまく頑張りたいですね。
 [統計学の時間](https://bellcurve.jp/statistics/course/?srsltid=AfmBOoo5NYNzYumLdhkyMxL59RH_iLp9poPv7HwjU1VwH0vjVOxJI1E1)
@@ -35,7 +35,7 @@ progress: 44
 12. [x] 累積分布関数と確率変数の期待値・分散
 13. [x] いろいろな確率分布1
 14. [x] いろいろな確率分布2
-15. [ ] いろいろな確率分布3
+15. [x] いろいろな確率分布3
 16. [ ] 標本と抽出法
 17. [ ] 大数の法則と中心極限定理
 18. [ ] 母平均の点推定
