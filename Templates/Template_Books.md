@@ -18,8 +18,8 @@ source: Kindle / Paper
 author: [{{author}}]
 publisher: {{publisher}}
 publish: {{publishDate}}
-Started: 
-Finished:
+Started: 2025-01-01
+Finished: 2025-01-01
 ## 要約
 ## 読書メモ
 ## ハイライト/メモ

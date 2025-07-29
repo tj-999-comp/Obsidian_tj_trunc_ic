@@ -1,13 +1,14 @@
 ---
-title: "Kaggle Expertになるまで勉強したことを全て書く"
-source: "https://qiita.com/Yuki_Kaggler/items/8ffe2ffa6f020e09cfd3"
+title: Kaggle Expertになるまで勉強したことを全て書く
+source: https://qiita.com/Yuki_Kaggler/items/8ffe2ffa6f020e09cfd3
 author:
   - "[[Yuki_Kaggler]]"
 published: 2021-06-21
 created: 2025-06-24
-description:
+description: 
 tags:
-  - "clippings"
+  - clippings
+  - Kaggle
 ---
 ![](https://relay-dsp.ad-m.asia/dmp/sync/bizmatrix?pid=c3ed207b574cf11376&d=x18o8hduaj&uid=)
 
