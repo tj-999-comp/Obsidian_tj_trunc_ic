@@ -9,6 +9,7 @@ WHERE progress !=null
 ```
 
 ### 2-Week Tasks
+[[2WTasks_20250804_20250817]]
 [[2WTasks_20250726_20250803]]
 [[2WTasks_20250707_20250720]]
 [[2WTasks_20250623_20250706]]

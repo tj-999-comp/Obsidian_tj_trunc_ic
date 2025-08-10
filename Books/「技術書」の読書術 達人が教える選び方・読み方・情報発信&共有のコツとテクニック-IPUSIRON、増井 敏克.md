@@ -1,21 +1,21 @@
 ---
 tags:
-  - 📚Book/Techs
+  - "\U0001F4DABook/Techs"
 status: read
 Author:
   - IPUSIRON、増井 敏克
-Cover: https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg
-Publisher: 
+Cover: 'https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg'
+Publisher: null
 source: Kindle
 Type: Techs
 kindle-sync:
-  bookId: "16050"
+  bookId: '16050'
   title: 「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック
   author: IPUSIRON、増井 敏克
   asin: B0BF469YLK
-  lastAnnotatedDate: 2025-05-26
-  bookImageUrl: https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg
-  highlightsCount: 63
+  lastAnnotatedDate: '2025-06-21'
+  bookImageUrl: 'https://m.media-amazon.com/images/I/817JbDq4ySL._SY160.jpg'
+  highlightsCount: 65
 ---
 # 「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック
 ## Metadata
@@ -140,6 +140,10 @@ Finished: 2025_05_27
 >これはやる！ せっかくアプリ登録して始めたしね。
 ---
 >[!quote]
+>[!quote]
+>技術書についての情報を仕入れるとき、IT系の雑誌を読む方法を紹介しました。 — location: [556](kindle://book?action=open&asin=B0BF469YLK&location=556) ^ref-11059
+
+---
 >小説では「本屋大賞」が有名ですが、全国の書店で働く書店員さんの投票によって決まる「CPU大賞＊9」という技術書のランキングが存在しています。書店員さんの視点は独特なものがあり、店頭に並んでいるPOPを見るだけでも参考になることが多いものです。 　IT業界では読者が選ぶ「ITエンジニア本大賞＊10」もあります。ITエンジニアが選んだ本の中から、仕事の役に立った本や初学者におすすめの本、ずっと手元に置いておきたい本などを選んで投票するもので、2014年から毎年開催されています。 　売上ランキングは1つの指標ではありますが、それ以外のランキングも探してみましょう。 — location: [630](kindle://book?action=open&asin=B0BF469YLK&location=630) ^ref-59501
 >>[!note]
 >気にしたことがなかった。ちょっと見てみたい、まずは昨年のものから。
@@ -224,6 +228,11 @@ Finished: 2025_05_27
 >定着させるには必須かと。やるのとやらないので大きく違いそう。
 ---
 >[!quote]
+>[!quote]
+>最初は似た種類の言語を学ぶことをおすすめします。Rubyを学んだ後にPythonを学ぶ、 — location: [1462](kindle://book?action=open&asin=B0BF469YLK&location=1462) ^ref-21641
+>>[!note]
+>逆に言えば
+---
 >3つ目以降の言語は、可能であれば種類の違う言語を学ぶことをおすすめします。最初に学んだものがC言語のようなコンパイル型の言語であれば、次はRubyやPHPのようなインタプリタ型の言語を試す、Javaのようなオブジェクト指向型の言語を学んだら、Haskellのような関数型の言語を学ぶ、といった形です。これにより、プログラムの実装方法の違いや考え方の違いを理解できます。 — location: [1465](kindle://book?action=open&asin=B0BF469YLK&location=1465) ^ref-34166
 >>[!note]
 >逆に言えばPython→C++はあまり良いルートじゃない可能性もある？そもそも言語の特性をあまり理解していないので、要勉強かな。
