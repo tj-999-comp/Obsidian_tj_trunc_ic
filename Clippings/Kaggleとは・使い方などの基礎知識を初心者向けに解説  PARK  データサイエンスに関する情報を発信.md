@@ -131,7 +131,7 @@ Kaggleでは、 **Competitions、Datasets、Notebooks、Discussionsそれぞれ�
 
 ・Master
 
-・Grandmaste **r**
+・Grandmaster
 
 それぞれのランクについて説明します。
 
